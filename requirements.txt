@@ -2,7 +2,7 @@ numpy
 pandas
 matplotlib
 nltk
-pickle
+pickle5
 streamlit
 scikit-learn
 sklearn
