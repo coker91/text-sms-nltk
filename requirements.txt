@@ -6,5 +6,5 @@ random
 pickle
 streamlit
 pip
-sckit-learn
+scikit-learn
 sklearn
